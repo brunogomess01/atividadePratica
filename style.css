@@ -12,7 +12,9 @@ header {
 }
 
 
-.primeirasection {  display: flex;
+.primeirasection {  
+    background-image: url(img/Sem\ título-1.jpg);
+    display: flex;
     justify-items: auto; 
 }
 
